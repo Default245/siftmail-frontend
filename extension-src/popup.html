@@ -1,0 +1,6 @@
+<!doctype html><html><body style="font:14px system-ui;padding:10px">
+<h3>Sift Mail</h3>
+<button id="scan">Scan this page</button>
+<pre id="out" style="white-space:pre-wrap"></pre>
+<script>(async()=>{const [t]=await chrome.tabs.query({active:true,currentWindow:true});document.getElementById("scan").onclick=()=>chrome.tabs.sendMessage(t.id,{cmd:"scan"},r=>{document.getElementById("out").textContent=JSON.stringify(r||{},null,2)});})();</script>
+</body></html>

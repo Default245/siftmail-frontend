@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[628],{3920:(_,n,s)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/app/batch",function(){return s(6508)}])},6508:(_,n,s)=>{"use strict";s.r(n),s.d(n,{default:()=>e});var u=s(7876);function e(){return(0,u.jsx)("h1",{children:"Batch Classify"})}}},_=>{_.O(0,[636,593,792],()=>_(_.s=3920)),_N_E=_.O()}]);

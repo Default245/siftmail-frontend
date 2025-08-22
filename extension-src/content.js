@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener((m,_,send)=>{ if(m.cmd==="scan"){ const text=[...document.querySelectorAll("div[role=main],.a3s")].map(e=>e.innerText).join("\n\n").slice(0,2000); send({ok:true,sample:text.length}); }});
