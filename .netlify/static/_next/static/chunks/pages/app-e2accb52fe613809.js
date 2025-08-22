@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[961],{361:(_,n,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/app",function(){return u(9284)}])},9284:(_,n,u)=>{"use strict";u.r(n),u.d(n,{default:()=>r});var e=u(7876);function r(){return(0,e.jsx)("h1",{children:"Dashboard"})}}},_=>{_.O(0,[636,593,792],()=>_(_.s=361)),_N_E=_.O()}]);

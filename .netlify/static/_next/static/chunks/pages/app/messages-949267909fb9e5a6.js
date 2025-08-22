@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[304],{5516:(s,e,_)=>{"use strict";_.r(e),_.d(e,{default:()=>u});var n=_(7876);function u(){return(0,n.jsx)("h1",{children:"Messages"})}},6812:(s,e,_)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/app/messages",function(){return _(5516)}])}},s=>{s.O(0,[636,593,792],()=>s(s.s=6812)),_N_E=s.O()}]);
